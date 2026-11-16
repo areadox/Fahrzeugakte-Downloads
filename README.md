@@ -44,6 +44,15 @@ oder von Hand: `Dockerfile`, `start.sh` und `compose.yml` aus dem Release in ein
 Im Browser `http://<Rechner>:8090` öffnen. Gibt es noch keinen Benutzer, unter *Admin → Benutzer* den ersten Admin
 anlegen – danach meldet sich jeder mit eigenem Namen und Passwort an.
 
+## Funktionen (Auswahl)
+
+- Fahrzeuge mit FIN, Kennzeichen und **Schlüsselnummer (HSN/TSN)**: Hersteller, Modell und Motor werden aus dem eingebauten
+  KBA-Verzeichnis „Hersteller und Typen – Pkw“ übernommen – offline, ohne Zugang zu einem Portal.
+- Aufträge mit eigener Auftragsnummer, Einträge mit Fehlercodes, Arbeitsschritten (Soll/Ist/Ergebnis, Dauer), Teilen, Fotos und Dokumenten.
+- **Diagnosekarte** zum Ausdrucken, bei Renault und Dacia zusätzlich die Renault „Allgemeine Diagnosekarte“;
+  Fotos und PDFs der Diagnose werden als Anlagen mitgedruckt.
+- Benutzer mit Rollen und Rechten, Materialbestellliste, Artikel und Preise, Posteingang.
+
 ## Drucken in die Fahrzeugakte
 
 Aus jedem Programm (DMS, Prüfprotokolle, Diagnoseberichte …) auf den Drucker **„Fahrzeugakte“** drucken – das Dokument

@@ -44,6 +44,17 @@ oder von Hand: `Dockerfile`, `start.sh` und `compose.yml` aus dem Release in ein
 Im Browser `http://<Rechner>:8090` öffnen. Gibt es noch keinen Benutzer, unter *Admin → Benutzer* den ersten Admin
 anlegen – danach meldet sich jeder mit eigenem Namen und Passwort an.
 
+## Drucken in die Fahrzeugakte
+
+Aus jedem Programm (DMS, Prüfprotokolle, Diagnoseberichte …) auf den Drucker **„Fahrzeugakte“** drucken – das Dokument
+landet im **Posteingang**, und das passende Fahrzeug wird anhand von FIN oder Kennzeichen vorgeschlagen.
+
+- **Windows-Programm:** Drucker im Programmfenster unter *Drucker* einrichten.
+- **Andere PCs / Linux-Server:** im Browser unter *Posteingang* auf *Drucker für diesen PC herunterladen* klicken,
+  die Datei auf dem PC doppelklicken und die Administrator-Abfrage bestätigen. Gedruckt wird über das Netzwerk
+  (Port 9100, ein- und ausschalten unter *Admin → Einstellungen*). Bei aktiver Firewall: `sudo ufw allow 9100/tcp`;
+  bei Docker `"9100:9100"` unter `ports` in der `compose.yml`.
+
 ## Updates
 
 Im Browser unter *Admin → Update*: *Nach Updates suchen*, dann *Jetzt installieren*. Die Datenbank wird vorher

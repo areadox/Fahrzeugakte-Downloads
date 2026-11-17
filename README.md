@@ -75,4 +75,10 @@ gesichert, die Prüfsumme geprüft; danach startet die Fahrzeugakte von selbst n
 
 Zu jeder Programmdatei gibt es eine `.sha256`-Datei, z.B. `sha256sum -c fahrzeugakte-server-linux-x86_64.sha256`.
 
+## Lizenzen Dritter
+
+Die Fahrzeugakte enthält Open-Source-Bibliotheken unter freizügigen Lizenzen. Ihre Lizenzhinweise stehen in
+`LIZENZEN-DRITTER.html` (liegt jedem Release bei), im Programm unten auf jeder Seite unter *Lizenzen Dritter* und im
+Startmenü (Windows).
+
 Alle Rechte vorbehalten.

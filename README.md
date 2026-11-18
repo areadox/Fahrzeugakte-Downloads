@@ -54,6 +54,7 @@ anlegen – danach meldet sich jeder mit eigenem Namen und Passwort an.
 - Bei Renault und Dacia im Auftrag zusätzlich **MCS-Code**, **Katalogfunktion** und **Garantie-Code** (auch im Druck und auf der Diagnosekarte).
 - **Diagnosekarte** zum Ausdrucken, bei Renault und Dacia zusätzlich die Renault „Allgemeine Diagnosekarte“;
   Fotos und PDFs der Diagnose werden als Anlagen mitgedruckt.
+- **Auftrag drucken** mit allen Aufgaben und Dokumenten (Fotos, PDFs als Anlagen) – jede Aufgabe und jedes Dokument einzeln auswählbar.
 - Dokumente aus dem Posteingang direkt an die passende Aufgabe im Auftrag (z.B. an die Diagnose) zuordnen.
 - „← Zurück“ auf jeder Seite führt immer auf die zuletzt angesehene Seite.
 - Benutzer mit Rollen und Rechten, Materialbestellliste, Artikel und Preise, Posteingang.

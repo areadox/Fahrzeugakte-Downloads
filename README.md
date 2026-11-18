@@ -51,6 +51,7 @@ anlegen – danach meldet sich jeder mit eigenem Namen und Passwort an.
 - Aufträge mit eigener Auftragsnummer; darin Aufgaben mit eigenem Formular: **Diagnose** (Arbeitsschritte mit Soll/Ist/Ergebnis,
   Dauer, Fehlercodes), **Reparatur** (direkt aus der Diagnose, mit Probefahrt und „Fehlerspeicher gelöscht“),
   **Wartung/Inspektion** (Checkliste, nächster Service), **Dokument** und **Sonstiges**; Auftrag abschließen, wenn alles erledigt ist.
+- Bei Renault und Dacia im Auftrag zusätzlich **MCS-Code**, **Katalogfunktion** und **Garantie-Code** (auch im Druck und auf der Diagnosekarte).
 - **Diagnosekarte** zum Ausdrucken, bei Renault und Dacia zusätzlich die Renault „Allgemeine Diagnosekarte“;
   Fotos und PDFs der Diagnose werden als Anlagen mitgedruckt.
 - Dokumente aus dem Posteingang direkt an die passende Aufgabe im Auftrag (z.B. an die Diagnose) zuordnen.

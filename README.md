@@ -53,6 +53,8 @@ anlegen – danach meldet sich jeder mit eigenem Namen und Passwort an.
   **Wartung/Inspektion** (Checkliste, nächster Service), **Dokument** und **Sonstiges**; Auftrag abschließen, wenn alles erledigt ist.
 - **Diagnosekarte** zum Ausdrucken, bei Renault und Dacia zusätzlich die Renault „Allgemeine Diagnosekarte“;
   Fotos und PDFs der Diagnose werden als Anlagen mitgedruckt.
+- Dokumente aus dem Posteingang direkt an die passende Aufgabe im Auftrag (z.B. an die Diagnose) zuordnen.
+- „← Zurück“ auf jeder Seite führt immer auf die zuletzt angesehene Seite.
 - Benutzer mit Rollen und Rechten, Materialbestellliste, Artikel und Preise, Posteingang.
 
 ## Drucken in die Fahrzeugakte
